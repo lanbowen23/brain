@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+.vscode/
+DATA
+__pycache__/
+*.h5
+deepEM3Dvalid_prob_h5/
+deepEM3Dvalid_prob_img/
+logs/
+test_thread.py
